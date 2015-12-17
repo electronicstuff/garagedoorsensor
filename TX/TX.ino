@@ -2,7 +2,7 @@
 
     Garage door detector transmitter code
 
-    <Gareth Loader>  @gareth_loader
+    <Gareth Loader>  www.electronicstuff.info
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
