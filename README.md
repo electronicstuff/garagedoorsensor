@@ -1,3 +1,3 @@
 # garagedoorsensor
 Code for the wireless Garage Door Sensor and Receiver.....
-Blog write up on this http://garethselectronicstuff.blogspot.co.uk/2015/03/arduino-garage-door-detector.html
+Blog write up on this http://electronicstuff.info/blog/arduino-garage-door-detector/
